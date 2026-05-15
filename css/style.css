@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#loginBody{
+    background-color: #4B3F82;
+    border: solid;
+    height: 656px;
+    display: flex;
+}
+.formUsuario{
+    display: flex;
+    width: 25%;
+    height: 25%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    border: solid;
+}
